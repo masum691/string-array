@@ -1,0 +1,33 @@
+
+// toUpperCase() - The toUpperCase() method returns the value of the string converted to uppercase. This method does not affect the value of the string itself since JavaScript strings are immutable.
+
+
+// toLowerCase() - The JavaScript toLowerCase() method converts a string to lowercase letters. Like the toUpperCase() method, toLowerCase() does not alter the original string. Instead, it returns a copy of the string where the letters are converted to lowercase characters. Here's the syntax for the toLowerCase() method: string_name.
+
+
+// includes() - In JavaScript, includes() method determines whether a string contains the given characters within it or not. This method returns true if the string contains the characters, otherwise, it returns false
+
+
+// startsWith() - In JavaScript, startsWith() is a string method that is used to determine whether a string starts with a specific sequence of characters. Because the startsWith() method is a method of the String object, it must be invoked through a particular instance of the String class.
+
+
+// endsWith() - In JavaScript, endsWith() is a string method that is used to determine whether a string ends with a specific sequence of characters. Because the endsWith() method is a method of the String object, it must be invoked through a particular instance of the String class.
+
+
+// split() - The split() method divides a String into an ordered list of substrings, puts these substrings into an array, and returns the array. The division is done by searching for a pattern; where the pattern is provided as the first parameter in the method's call.
+
+
+// slice() - The slice() method returns a shallow copy of a portion of an array into a new array object selected from start to end ( end not included) where start and end represent the index of items in that array. The original array will not be modified.
+
+
+substr() - The substr() method returns a portion of the string, starting at the specified index and extending for a given number of characters afterwards
+
+
+substring() - Image result for what is substring in javascript
+The JavaScript substring() method retrieves a range of characters between two index positions. You can use substring() to retrieve characters to the end of a string by omitting an end index position. A substring is a smaller portion of a larger string.
+
+
+concat() - Description. In JavaScript, concat() is a string method that is used to concatenate strings together. The concat() method appends one or more string values to the calling string and then returns the concatenated result as a new string.
+
+
+join() - join() The join() method creates and returns a new string by concatenating all of the elements in an array (or an array-like object), separated by commas or a specified separator string. If the array has only one item, then that item will be returned without using the separator.
