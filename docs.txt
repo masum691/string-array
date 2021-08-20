@@ -42,3 +42,6 @@ if(Array.isArray(friends) == false){
 
 
 arguments - arguments a push() , pop() etc. kota jai na
+
+
+// moment js - MomentJS is a JavaScript library which helps is parsing, validating, manipulating and displaying date/time in JavaScript in a very easy way. ... Moment JS allows displaying of date as per localization and in human readable format. You can use MomentJS inside a browser using the script method.
