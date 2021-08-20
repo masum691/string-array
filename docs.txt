@@ -38,3 +38,7 @@ if(Array.isArray(friends) == false){
         return 'please provide an array';
     }
 ///////////////////////////////////////////////////////
+
+
+
+arguments - arguments a push() , pop() etc. kota jai na
